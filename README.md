@@ -1,4 +1,5 @@
 Titre : ACD - Agricole Compagnie Departement
+Présentation :
 Agricole Compagnie Departement est un site à la fois vitrine et E-commerce de la coopérative agricole ACD. 
 Faisant un stage de 1ère année dans une coopérative, j'ai décidé de me plonger dans l'univers de l'agriculture associant passion et découverte.
 Effectuer :
@@ -15,3 +16,8 @@ Effectuer :
 Non effectuer/ n'a pas été fini :
 -- Page Boutique.
 -- Page Actualités.
+
+Installation :
+-- Mettre en place un serveur Web local pour pouvoir le faire tourner.
+-- Importer la base de donnée dans votre logiciel.
+-- Aller dans un navigateur et profiter !
